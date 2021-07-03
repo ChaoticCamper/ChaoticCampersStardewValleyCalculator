@@ -57,12 +57,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label1.Text" xml:space="preserve">
-    <value>Enter the amount of materials you have on
-the left, then click the "Calculate" button.
-Tables 1+2 will populate with the remaining
-gold you will need to build that item.
-* Buildings with a "!" require some items
-that can't be bought (i.e. iridium bars).</value>
-  </data>
 </root>

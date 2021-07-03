@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ChaoticCampersStardewValleyCalculator
+namespace StardewValleyConstructionCalculator.BusinessLogic
 {
     public static class HelperFunctions
     {
